@@ -1,0 +1,24 @@
+{
+    "author": "sam.kwarteng@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "keep-me-awake",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Keep Me Awake",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "6fa133ca-df94-4b9f-b184-b02543c2de12",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
